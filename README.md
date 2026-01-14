@@ -1,3 +1,5 @@
+(This fork delete several outlines and restore de original bookmark bar. I'm NOT a professional, all the credits are for the original creator @Acercandr0 con mucho amor)
+
 # Latin Accent 🦊
 
 Latin Accent is a custom Firefox theme for Windows that leverages your system's accent color to create translucent UI surfaces for a sleek, modern aesthetic. It embodies the concept of an "accent" as both a personalized visual tone and a vibrant, expressive characteristic.
